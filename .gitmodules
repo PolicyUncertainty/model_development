@@ -1,0 +1,3 @@
+[submodule "submodules/dc-egm"]
+	path = submodules/dc-egm
+	url = https://github.com/OpenSourceEconomics/dc-egm.git
