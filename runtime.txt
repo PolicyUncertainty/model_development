@@ -1,0 +1,3 @@
+Pre processing time on max machine was 17.377647876739502 seconds 
+First time_call was 192.94203996658325 seconds 
+Second time_call was 53.86933183670044 seconds 
